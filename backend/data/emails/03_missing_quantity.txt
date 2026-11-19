@@ -1,0 +1,10 @@
+From: orders@alpinetools.example
+Subject: quick reorder
+
+Hello team,
+
+we are running low on M8 x 40 screws again. Please send some over
+before 4 December, same as last time.
+
+Thanks,
+Tom

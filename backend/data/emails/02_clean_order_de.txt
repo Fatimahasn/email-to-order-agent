@@ -1,0 +1,16 @@
+Von: bestellung@schneider-metall.example
+Betreff: Bestellung Lagerware
+
+Guten Tag,
+
+vielen Dank für die schnelle Lieferung letzte Woche. Wir möchten gerne
+nachbestellen:
+
+- 100 Stück Kugellager 6204-2RS
+- 400 Stück Sechskantschrauben M8 x 50, verzinkt
+
+Bitte liefern Sie bis zum 30.11.
+
+Mit freundlichen Grüßen
+Anja Schneider
+Schneider Metallwaren

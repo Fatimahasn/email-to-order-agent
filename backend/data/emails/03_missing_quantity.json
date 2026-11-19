@@ -1,0 +1,9 @@
+{
+  "customer_email": "orders@alpinetools.example",
+  "delivery_date": "2026-12-04",
+  "items": [
+    {"raw_text": "M8 x 40 screws", "sku": "SCR-M8-40", "quantity": null}
+  ],
+  "should_flag_for_review": true,
+  "review_reason": "missing quantity"
+}

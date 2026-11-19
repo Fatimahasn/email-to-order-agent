@@ -1,0 +1,10 @@
+{
+  "customer_email": "orders@alpinetools.example",
+  "delivery_date": "2026-11-27",
+  "items": [
+    {"raw_text": "M8 x 40 hex screws", "sku": "SCR-M8-40", "quantity": 200},
+    {"raw_text": "M8 nuts", "sku": "NUT-M8", "quantity": 500}
+  ],
+  "should_flag_for_review": false,
+  "review_reason": null
+}

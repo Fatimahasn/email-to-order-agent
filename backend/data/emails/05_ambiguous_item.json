@@ -1,0 +1,9 @@
+{
+  "customer_email": "orders@alpinetools.example",
+  "delivery_date": "2026-12-01",
+  "items": [
+    {"raw_text": "M8 screws, zinc plated", "sku": null, "quantity": 300}
+  ],
+  "should_flag_for_review": true,
+  "review_reason": "ambiguous product"
+}

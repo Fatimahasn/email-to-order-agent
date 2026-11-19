@@ -1,0 +1,11 @@
+From: orders@alpinetools.example
+Subject: Order for next week
+
+Hi,
+
+please send us 200 pieces of the M8 x 40 hex screws and 500 M8 nuts.
+We need them by 27 November.
+
+Best regards,
+Tom Fischer
+Alpine Tools Ltd

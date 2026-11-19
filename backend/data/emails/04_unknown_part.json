@@ -1,0 +1,10 @@
+{
+  "customer_email": "einkauf@mueller-maschinenbau.example",
+  "delivery_date": "2026-12-02",
+  "items": [
+    {"raw_text": "Hydraulikschlauch DN16, 2 m lang", "sku": null, "quantity": 10},
+    {"raw_text": "Kugellager 6205-2RS", "sku": "BRG-6205", "quantity": 50}
+  ],
+  "should_flag_for_review": true,
+  "review_reason": "unknown product"
+}
