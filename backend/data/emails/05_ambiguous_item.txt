@@ -1,0 +1,11 @@
+From: orders@alpinetools.example
+Subject: Screws
+
+Hi,
+
+can you ship 300 M8 screws to our warehouse? We need them by
+1 December. Zinc plated, like the last batch.
+
+Cheers,
+Tom Fischer
+Alpine Tools Ltd
